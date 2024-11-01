@@ -1,0 +1,931 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VR-Frases 2.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/vr-frases\n"
+"POT-Creation-Date: 2017-02-24 19:02+0100\n"
+"PO-Revision-Date: 2017-02-24 19:07+0100\n"
+"Last-Translator: Vicente Ruiz <privado@vruiz.net>\n"
+"Language-Team: Vicenç Ruiz <webmaster@vruiz.net>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: s;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/vr-frases-admin.php:98 ../vr-frases.php:187
+msgid "Manage Quotes"
+msgstr "Gestionar Frases"
+
+#: ../includes/vr-frases-admin.php:104 ../includes/vr-frases-template.php:38
+msgid " items found"
+msgstr " elementos encontrados"
+
+#: ../includes/vr-frases-admin.php:117 ../includes/vr-frases-admin.php:162
+#: ../includes/vr-frases-admin.php:300 ../includes/vr-frases-admin.php:334
+#: ../includes/vr-frases-admin.php:411 ../includes/vr-frases-admin.php:445
+msgid "Select/Unselect all"
+msgstr "Seleccionar/Deseleccionar todo"
+
+#: ../includes/vr-frases-admin.php:120 ../includes/vr-frases-admin.php:165
+#: ../includes/vr-frases-admin.php:303 ../includes/vr-frases-admin.php:337
+#: ../includes/vr-frases-admin.php:414 ../includes/vr-frases-admin.php:448
+msgid "ID"
+msgstr "ID"
+
+#: ../includes/vr-frases-admin.php:121 ../includes/vr-frases-admin.php:166
+#: ../includes/vr-frases-admin.php:222 ../includes/vr-frases-admin.php:576
+msgid "Quote"
+msgstr "Frase"
+
+#: ../includes/vr-frases-admin.php:122 ../includes/vr-frases-admin.php:167
+#: ../includes/vr-frases-admin.php:226 ../includes/vr-frases-admin.php:580
+msgid "Author"
+msgstr "Autor"
+
+#: ../includes/vr-frases-admin.php:123 ../includes/vr-frases-admin.php:168
+#: ../includes/vr-frases-admin.php:230 ../includes/vr-frases-admin.php:304
+#: ../includes/vr-frases-admin.php:338 ../includes/vr-frases-admin.php:366
+#: ../includes/vr-frases-admin.php:584 ../includes/vr-frases-admin.php:634
+msgid "Class"
+msgstr "Clase"
+
+#: ../includes/vr-frases-admin.php:124 ../includes/vr-frases-admin.php:169
+#: ../includes/vr-frases-admin.php:246 ../includes/vr-frases-admin.php:415
+#: ../includes/vr-frases-admin.php:449 ../includes/vr-frases-admin.php:477
+#: ../includes/vr-frases-admin.php:599 ../includes/vr-frases-admin.php:658
+msgid "Theme"
+msgstr "Tema"
+
+#: ../includes/vr-frases-admin.php:125 ../includes/vr-frases-admin.php:140
+#: ../includes/vr-frases-admin.php:149 ../includes/vr-frases-admin.php:170
+#: ../includes/vr-frases-admin.php:306 ../includes/vr-frases-admin.php:323
+#: ../includes/vr-frases-admin.php:340 ../includes/vr-frases-admin.php:417
+#: ../includes/vr-frases-admin.php:434 ../includes/vr-frases-admin.php:451
+msgid "Edit"
+msgstr "Editar"
+
+#: ../includes/vr-frases-admin.php:126 ../includes/vr-frases-admin.php:141
+#: ../includes/vr-frases-admin.php:153 ../includes/vr-frases-admin.php:171
+#: ../includes/vr-frases-admin.php:307 ../includes/vr-frases-admin.php:325
+#: ../includes/vr-frases-admin.php:326 ../includes/vr-frases-admin.php:341
+#: ../includes/vr-frases-admin.php:418 ../includes/vr-frases-admin.php:436
+#: ../includes/vr-frases-admin.php:437 ../includes/vr-frases-admin.php:452
+msgid "Delete"
+msgstr "Borrar"
+
+#: ../includes/vr-frases-admin.php:141 ../includes/vr-frases-admin.php:153
+msgid "Are you sure deleting this quote?"
+msgstr "¿Estás seguro de borrar esta frase?"
+
+#: ../includes/vr-frases-admin.php:145 ../includes/vr-frases-functions.php:208
+#: ../includes/vr-frases-functions.php:266
+#: ../includes/vr-frases-template.php:52 ../includes/vr-frases-template.php:54
+msgid "View more quotes from this Author..."
+msgstr "Ver más frases de este Autor..."
+
+#: ../includes/vr-frases-admin.php:176 ../includes/vr-frases-admin.php:348
+#: ../includes/vr-frases-admin.php:459
+msgid "Delete selected"
+msgstr "Borrar seleccionados"
+
+#: ../includes/vr-frases-admin.php:176
+msgid "Are you sure you want to delete these quotes?"
+msgstr "¿Estás seguro de borrar estas frases?"
+
+#: ../includes/vr-frases-admin.php:180
+msgid "No quotes to list."
+msgstr "No hay frases para listar."
+
+#: ../includes/vr-frases-admin.php:197
+msgid "Error processing QUOTE."
+msgstr "Error procesando FRASE."
+
+#: ../includes/vr-frases-admin.php:198
+msgid "Quote already exists. Data not saved."
+msgstr "La Frase ya existe. Datos no guardados."
+
+#: ../includes/vr-frases-admin.php:202
+msgid "Quote added successfully: "
+msgstr "Frase añadida correctamente: "
+
+#: ../includes/vr-frases-admin.php:204 ../includes/vr-frases-admin.php:689
+msgid "Error processing Quote: mySql Error "
+msgstr "Error procesando Frase: mySql Error "
+
+#: ../includes/vr-frases-admin.php:208 ../includes/vr-frases-admin.php:692
+msgid "Error processing Quote: Fields cannot be void."
+msgstr "Error procesando Frase: Los campos no pueden ser nulos."
+
+#: ../includes/vr-frases-admin.php:217
+msgid "Add new quote"
+msgstr "Añadir nueva frase"
+
+#: ../includes/vr-frases-admin.php:232 ../includes/vr-frases-admin.php:587
+msgid "*CLASS*"
+msgstr "*CLASE*"
+
+#: ../includes/vr-frases-admin.php:248 ../includes/vr-frases-admin.php:602
+msgid "*THEME*"
+msgstr "*TEMA*"
+
+#: ../includes/vr-frases-admin.php:262 ../includes/vr-frases-admin.php:370
+#: ../includes/vr-frases-admin.php:481 ../includes/vr-frases-admin.php:615
+#: ../includes/vr-frases-admin.php:639 ../includes/vr-frases-admin.php:663
+msgid "Save"
+msgstr "Guardar"
+
+#: ../includes/vr-frases-admin.php:287
+msgid "Manage classes"
+msgstr "Gestionar clases"
+
+#: ../includes/vr-frases-admin.php:305 ../includes/vr-frases-admin.php:339
+#: ../includes/vr-frases-admin.php:416 ../includes/vr-frases-admin.php:450
+#: ../includes/vr-frases-functions.php:38 ../includes/vr-frases-widgets.php:133
+msgid "Quotes"
+msgstr "Frases"
+
+#: ../includes/vr-frases-admin.php:325 ../includes/vr-frases-admin.php:436
+msgid "Are you sure deleting this theme?"
+msgstr "¿Estás seguro de borrar este tema?"
+
+#: ../includes/vr-frases-admin.php:348 ../includes/vr-frases-admin.php:459
+msgid "Are you sure you want to delete these themes?"
+msgstr "¿Estás seguro de borrar estos temas?"
+
+#: ../includes/vr-frases-admin.php:349 ../includes/vr-frases-admin.php:460
+msgid ""
+"NOTICE: You only can delete items that do not have related quotes. You can "
+"modify them, or go to delete the related quotes before proceed."
+msgstr ""
+"IMPORTANTE: Sólo puedes borrar elementos que no tengan frases relacionadas. "
+"Puedes modificarlo o borrar las frases antes de proceder."
+
+#: ../includes/vr-frases-admin.php:354
+msgid "No classes to list."
+msgstr "No hay clases para listar."
+
+#: ../includes/vr-frases-admin.php:362
+msgid "Add new Class"
+msgstr "Añadir nueva Clase"
+
+#: ../includes/vr-frases-admin.php:398
+msgid "Manage themes"
+msgstr "Gestionar temas"
+
+#: ../includes/vr-frases-admin.php:465
+msgid "No themes to list."
+msgstr "No hay temas  para listar."
+
+#: ../includes/vr-frases-admin.php:473
+msgid "Add new Theme"
+msgstr "Añadir nuevo Tema"
+
+#: ../includes/vr-frases-admin.php:509
+msgid "Error processing CLASS."
+msgstr "Error procesando CLASE."
+
+#: ../includes/vr-frases-admin.php:510
+msgid "Class already exists. Data not saved."
+msgstr "La Clase ya existe. Datos no guardados."
+
+#: ../includes/vr-frases-admin.php:514
+msgid "Class added successfully: "
+msgstr "Nueva Clase añadida correctamente: "
+
+#: ../includes/vr-frases-admin.php:516
+msgid "Error processing Class. mySql Error: "
+msgstr "Error procesando Clase. mySql Error: "
+
+#: ../includes/vr-frases-admin.php:520
+msgid "Error processing Class. Fields cannot be void."
+msgstr "Error procesando Clase. Los campos no pueden ser nulos."
+
+#: ../includes/vr-frases-admin.php:537
+msgid "Error processing THEME."
+msgstr "Error procesando TEMA."
+
+#: ../includes/vr-frases-admin.php:538
+msgid "Theme already exists. Data not saved."
+msgstr "El Tema ya existe. Datos no guardados."
+
+#: ../includes/vr-frases-admin.php:542
+msgid "Theme added successfully: "
+msgstr "Nuevo Tema añadido correctamente: "
+
+#: ../includes/vr-frases-admin.php:544
+msgid "Error processing Theme. mySql Error: "
+msgstr "Error procesando Tema. mySql Error: "
+
+#: ../includes/vr-frases-admin.php:548
+msgid "Error processing Theme. Fields cannot be void."
+msgstr "Error procesando Frase. Los campos no pueden ser nulos."
+
+#: ../includes/vr-frases-admin.php:570
+msgid "Edit quote: "
+msgstr "Frase modificada: "
+
+#: ../includes/vr-frases-admin.php:628
+msgid "Edit class: "
+msgstr "Clase modificada: "
+
+#: ../includes/vr-frases-admin.php:652
+msgid "Edit theme: "
+msgstr "Tema modificado: "
+
+#: ../includes/vr-frases-admin.php:687
+msgid "Quote updated successfully: "
+msgstr "Frase actualizada correctamente: "
+
+#: ../includes/vr-frases-admin.php:709
+msgid "Class updated successfully: "
+msgstr "Clase actualizada correctamente: "
+
+#: ../includes/vr-frases-admin.php:711
+msgid "Error processing Class: mySql Error "
+msgstr "Error procesando Clase: mySql Error "
+
+#: ../includes/vr-frases-admin.php:714
+msgid "Error processing Class: Fields cannot be void."
+msgstr "Error procesando Clase: Los campos no pueden ser nulos."
+
+#: ../includes/vr-frases-admin.php:731
+msgid "Theme updated successfully: "
+msgstr "Tema actualizado correctamente: "
+
+#: ../includes/vr-frases-admin.php:733
+msgid "Error processing Theme: mySql Error "
+msgstr "Error procesando Tema: mySql Error "
+
+#: ../includes/vr-frases-admin.php:736
+msgid "Error processing Theme: Fields cannot be void."
+msgstr "Error procesando Tema: Los campos no pueden ser nulos."
+
+#: ../includes/vr-frases-admin.php:757
+msgid "Quote deleted successfully: "
+msgstr "Frase borrada correctamente: "
+
+#: ../includes/vr-frases-admin.php:771
+msgid "Class deleted successfully: "
+msgstr "Clase borrada correctamente: "
+
+#: ../includes/vr-frases-admin.php:785
+msgid "Theme deleted successfully: "
+msgstr "Tema borrado correctamente: "
+
+#: ../includes/vr-frases-admin.php:825
+msgid "Error while processing: mysql Error "
+msgstr "Error durante el proceso: mysql Error "
+
+#: ../includes/vr-frases-admin.php:830
+msgid "Deleted items: "
+msgstr "Elementos borrados: "
+
+#: ../includes/vr-frases-admin.php:832
+msgid "Error while processing: Item list cannot be void."
+msgstr "Errordurante el proceso: Los campos no pueden ser nulos. "
+
+#: ../includes/vr-frases-functions.php:16
+msgid "Viewing page "
+msgstr "Viendo página "
+
+#: ../includes/vr-frases-functions.php:26
+msgid " of "
+msgstr " de "
+
+#: ../includes/vr-frases-functions.php:37
+msgid "You are viewing all Quotes from: "
+msgstr "Estás viendo todas las frases de: "
+
+#: ../includes/vr-frases-functions.php:41
+msgid "You are viewing all the Authors with a name similar to: "
+msgstr "Estas viendo todos los Autores con un nombre similar a: "
+
+#: ../includes/vr-frases-functions.php:43 ../includes/vr-frases-widgets.php:133
+msgid "Authors"
+msgstr "Autores"
+
+#: ../includes/vr-frases-functions.php:45
+msgid "You are viewing Search Results for the next criteria.<br />"
+msgstr ""
+"Estás viendo los resultados para los siguiente criterios de búsqueda.<br />"
+
+#: ../includes/vr-frases-functions.php:46
+msgid "[Quote: "
+msgstr "[Frase: "
+
+#: ../includes/vr-frases-functions.php:47
+msgid "]  |  [Author: "
+msgstr "]  |  [Autor: "
+
+#: ../includes/vr-frases-functions.php:48
+msgid "]  |  [Category: "
+msgstr "]  |  [Categoría: "
+
+#: ../includes/vr-frases-functions.php:49 ../includes/vr-frases-template.php:60
+msgid "Search results"
+msgstr "Resultados de la búsqueda"
+
+#: ../includes/vr-frases-functions.php:51
+msgid "You are viewing ALL quotes."
+msgstr "Estás viendo las TODAS las frases."
+
+#: ../includes/vr-frases-functions.php:52
+msgid "ALL quotes"
+msgstr "TODAS las Frases"
+
+#: ../includes/vr-frases-functions.php:128
+msgid "Quote text: "
+msgstr "Texto de la Frase: "
+
+#: ../includes/vr-frases-functions.php:129
+msgid "Author Name: "
+msgstr "Nombre del Autor: "
+
+#: ../includes/vr-frases-functions.php:130
+msgid "Category: "
+msgstr "Categoría: "
+
+#: ../includes/vr-frases-functions.php:138
+msgid "Select an option..."
+msgstr "Selecciona una opción"
+
+#: ../includes/vr-frases-functions.php:139
+msgid "Select Class"
+msgstr "Seleccionar Clase"
+
+#: ../includes/vr-frases-functions.php:142
+msgid "Select Theme"
+msgstr "Seleccionar Tema"
+
+#: ../includes/vr-frases-functions.php:145
+msgid "Select Order"
+msgstr "Seleccionar Orden"
+
+#: ../includes/vr-frases-functions.php:146
+msgid "Order by Quotes"
+msgstr "Ordenar por Frases"
+
+#: ../includes/vr-frases-functions.php:147
+msgid "Order by Author"
+msgstr "Ordenar por Autor"
+
+#: ../includes/vr-frases-functions.php:148
+msgid "Order by Theme"
+msgstr "Ordenar por Tema"
+
+#: ../includes/vr-frases-functions.php:149
+msgid "Order by Class"
+msgstr "Ordenar por Clase"
+
+#: ../includes/vr-frases-functions.php:154
+msgid "Search"
+msgstr "Buscar"
+
+#: ../includes/vr-frases-options.php:14
+msgid "VR-Frases settings"
+msgstr "VR-Frases configuración"
+
+#: ../includes/vr-frases-options.php:20
+msgid "Settings for main and manage pages"
+msgstr "Opciones para las páginas principal y de gestión"
+
+#: ../includes/vr-frases-options.php:23
+msgid "Quotes per page"
+msgstr "Frases por página"
+
+#: ../includes/vr-frases-options.php:25
+msgid "Limit to display results (quotes or authors) per page (must be > 0)"
+msgstr ""
+"Cuando se muestran resultados, número de frases que se mostrará en cada "
+"página (debe ser > 0)"
+
+#: ../includes/vr-frases-options.php:28
+msgid "Page slug"
+msgstr "Página (slug)"
+
+#: ../includes/vr-frases-options.php:30
+msgid "Caption (slug) of the page wich contain the main shortcode."
+msgstr "Nombre (slug) de la página que contiene el shortcode principal."
+
+#: ../includes/vr-frases-options.php:33
+msgid "Settings for widget and [randomfrase] short code"
+msgstr "Opciones para el widget y el shortcode [randomfrase]"
+
+#: ../includes/vr-frases-options.php:36
+msgid "Hide author"
+msgstr "Ocultar autor"
+
+#: ../includes/vr-frases-options.php:38
+msgid "Hide the author name."
+msgstr "Oculta el nombre del autor."
+
+#: ../includes/vr-frases-options.php:41
+msgid "Link author"
+msgstr "Enlazar el autor"
+
+#: ../includes/vr-frases-options.php:43
+msgid ""
+"Link the author name to main page in order to view more quotes from him."
+msgstr "Enlazar el nombre del autor para mostrar más frases del mismo."
+
+#: ../includes/vr-frases-options.php:46
+msgid "Side author"
+msgstr "Posición del autor"
+
+#: ../includes/vr-frases-options.php:48
+msgid "Mark to display author name before the quote. Unmark to display after."
+msgstr ""
+"Marcar para mostrar el nombre del autor antes de la frase. Dejar en blanco "
+"para mostrar detrás."
+
+#: ../includes/vr-frases-options.php:51
+msgid "Separate lines"
+msgstr "Separación de líneas"
+
+#: ../includes/vr-frases-options.php:53
+msgid ""
+"Mark to insert &lt;br /&gt; between author and quote. Otherwise inserts a "
+"blank space."
+msgstr ""
+"Marcar par insertar &lt;br /&gt; entre el autor y la frase. De lo contrario "
+"se insertará un espacio en blanco."
+
+#: ../includes/vr-frases-options.php:56
+msgid "You are using <b>VR-frases</b>: version "
+msgstr "Estás usando <b>VR-frases</b>: versión "
+
+#: ../includes/vr-frases-options.php:58 ../includes/vr-frases-widgets.php:139
+msgid "Sample of output style for [randomfrase] and sidebar widgets:"
+msgstr "Ejemplo del estilo de salida para [randomfrase] y los widgets:"
+
+#: ../includes/vr-frases-options.php:61
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: ../includes/vr-frases-options.php:81
+msgid "Sorry, the number of inputs per page must be > 0, and cannot be void."
+msgstr ""
+"Lo siento, el número de items por página debe ser > 0, y no puede ser nulo."
+
+#: ../includes/vr-frases-options.php:86
+msgid "Sorry, the page slug cannot be void."
+msgstr "Lo siento, el slug de la página no puede ser nulo."
+
+#: ../includes/vr-frases-template.php:61
+msgid ""
+"No items found to match your search criteria.<br />Please, try another words."
+msgstr ""
+"No se han encontrado elementos que coincidan con tus criterios.<br />Por "
+"favor, prueba con otras palabras."
+
+#: ../includes/vr-frases-widgets.php:21
+msgid "This widget display a random phrase on every page reload."
+msgstr ""
+"Este widget muestra una frase aleatoria cada vez que se carga la página."
+
+#: ../includes/vr-frases-widgets.php:23 ../vr-frases.php:186
+msgid "VR-frases"
+msgstr "VR-frases"
+
+#: ../includes/vr-frases-widgets.php:77
+msgid "New title"
+msgstr "Nuevo título"
+
+#: ../includes/vr-frases-widgets.php:85
+msgid "Title:"
+msgstr "Título:"
+
+#: ../includes/vr-frases-widgets.php:131
+msgid "Registered data totals:"
+msgstr "Datos totales registrados:"
+
+#: ../includes/vr-frases-widgets.php:133
+msgid "At this momment your database contents "
+msgstr "En este momento tu base de datos contiene "
+
+#: ../includes/vr-frases-widgets.php:133
+msgid " from "
+msgstr " de "
+
+#: ../includes/vr-frases-widgets.php:135
+msgid "Your classification handlers: "
+msgstr "Tus categorías de clasificación: "
+
+#: ../includes/vr-frases-widgets.php:135
+msgid "Classes"
+msgstr "Clases"
+
+#: ../includes/vr-frases-widgets.php:135
+msgid " and "
+msgstr " y "
+
+#: ../includes/vr-frases-widgets.php:135
+msgid "Themes"
+msgstr "Temas"
+
+#: ../includes/vr-frases-widgets.php:145
+msgid "You are using <b>VR-frases</b> version: "
+msgstr "Estás usando <b>VR-frases</b> versión: "
+
+#: ../includes/vr-frases-widgets.php:153
+msgid "Take a look for VR-frases"
+msgstr "VR-frases de un vistazo"
+
+#: ../vr-frases.php:75
+msgid ""
+"Warning: Updating form oldest version! You need upgrade manually to 1.5.x. "
+"version previous to install 2.0.x or your data wlll be lost."
+msgstr ""
+"Atención: Actualizandeo desde una versión antigua. Necesitas actualizar "
+"manualmenta a la versión 1.5.x antes de instalar versiones posteriores a la "
+"2.0.x o se perderán tus datos."
+
+#: ../vr-frases.php:187 ../vr-frases.php:188
+msgid "VR-frases Frases"
+msgstr "VR-frases Frases"
+
+#: ../vr-frases.php:188
+msgid "Add new Quote"
+msgstr "Añadir nueva Frase"
+
+#: ../vr-frases.php:189
+msgid "VR-frases Classes"
+msgstr "VR-frases Clases"
+
+#: ../vr-frases.php:189
+msgid "Manage Classes"
+msgstr "Gestionar Clases"
+
+#: ../vr-frases.php:190
+msgid "VR-frases Themes"
+msgstr "VR-frases Temas"
+
+#: ../vr-frases.php:190
+msgid "Manage Themes"
+msgstr "Gestionar Temas"
+
+#: ../vr-frases.php:191
+msgid "VR-frases Settings"
+msgstr "VR-Frases Configuración"
+
+#: ../vr-frases.php:191 ../vr-frases.php:203
+msgid "Settings"
+msgstr "Configurar"
+
+#~ msgid "Go to page"
+#~ msgstr "Ir a la página"
+
+#~ msgid "mysql Error: "
+#~ msgstr "Error de mysql: "
+
+#~ msgid "Error processing QUOTES."
+#~ msgstr "Error procesando FRASES."
+
+#~ msgid "Deleted quotes: "
+#~ msgstr "Frases borradas: "
+
+#~ msgid "Error processing CLASSES."
+#~ msgstr "Error procesando CLASES."
+
+#~ msgid "Deleted classes: "
+#~ msgstr "Clases borradas: "
+
+#~ msgid "Error processing THEMES."
+#~ msgstr "Error procesando TEMAS."
+
+#~ msgid "Order by AUTHOR"
+#~ msgstr "Ordenado por AUTOR"
+
+#~ msgid "Search criteria: "
+#~ msgstr "Criterio de búsqueda: "
+
+#~ msgid "Order by QUOTE"
+#~ msgstr "Ordenado por FRASE"
+
+#~ msgid "You are viewing quotes from "
+#~ msgstr "Estás viendo todas las frases de "
+
+#~ msgid "Filtered by CLASS"
+#~ msgstr "Filtradas por CLASE"
+
+#~ msgid "Filtered by THEME"
+#~ msgstr "Filtradas por TEMA"
+
+#~ msgid "Quotes of "
+#~ msgstr "Frases de "
+
+#~ msgid "Viewing ALL Quotes."
+#~ msgstr "Viendo TODAS las Frases."
+
+#~ msgid "Total records: "
+#~ msgstr "Registros totales: "
+
+#~ msgid "Search by <b>Author Name</b>:"
+#~ msgstr "Buscar por <b>Nombre del autor</b>:"
+
+#~ msgid "Search some <b>text</b> in quotes:"
+#~ msgstr "Buscar algún <b>texto</b> en las frases:"
+
+#~ msgid "Filter by <b>Category</b>:"
+#~ msgstr "Filtrar por <b>Categoría</b>:"
+
+#~ msgid "View by THEME"
+#~ msgstr "Ver por TEMA"
+
+#~ msgid "View by CLASS"
+#~ msgstr "Ver por CLASE"
+
+#~ msgid "View ALL Quotes"
+#~ msgstr "Viendo TODAS las Frases"
+
+#~ msgid "Add new item"
+#~ msgstr "Añadir nuevo elemento"
+
+#~ msgid "Add Quotes"
+#~ msgstr "Añadir Frases"
+
+#~ msgid "Manage settings"
+#~ msgstr "Configurar opciones"
+
+#~ msgid "Are you sure deleting this class?"
+#~ msgstr "¿Estás seguro de borrar esta clase?"
+
+#~ msgid "VR-frases (add)"
+#~ msgstr "VR-frases (añadir)"
+
+#~ msgid "VR-frases (manage)"
+#~ msgstr "VR-frases (gestionar)"
+
+#~ msgid "VR-frases (options)"
+#~ msgstr "VR-frases (opciones)"
+
+#~ msgid "Quote modified successfully in: "
+#~ msgstr "Frase actualizada correctamente en: "
+
+#~ msgid "<b>Name</b> to search to filter by:"
+#~ msgstr "<b>Nombre</b> (o parte) para filtrar por:"
+
+#~ msgid "<b>Word</b> to search to filter by:"
+#~ msgstr "<b>Palabra</b> a buscar para filtrar por:"
+
+#~ msgid "Updated options."
+#~ msgstr "opciones actualizadas."
+
+#~ msgid "Error processing OPTIONS."
+#~ msgstr "Error procesando OPCIONES."
+
+#~ msgid "Options"
+#~ msgstr "Opciones"
+
+#~ msgid "Update"
+#~ msgstr "Actualizar"
+
+#~ msgid "Stored values"
+#~ msgstr "Valores almacenados"
+
+#~ msgid "Language:"
+#~ msgstr "Idioma:"
+
+#~ msgid "en [English] - es [Spanish]"
+#~ msgstr "en [English] - es [Spanish]"
+
+#~ msgid "Edit Quote"
+#~ msgstr "Editar Frase"
+
+#~ msgid "Add Classes"
+#~ msgstr "Añadir Clases"
+
+#~ msgid "Add Themes"
+#~ msgstr "Añadir Temas"
+
+#~ msgid "Popularity Contest Options"
+#~ msgstr "Opciones de Popularity Contest"
+
+#~ msgid "Popularity Values"
+#~ msgstr "Valores de Popularidad"
+
+#~ msgid ""
+#~ "Adjust the values below as you see fit. When you save the new options the "
+#~ "<a href=\"index.php?page=popularity-contest.php\"><strong>popularity "
+#~ "rankings</strong></a> for your posts will be automatically updated to "
+#~ "reflect the new values you have chosen."
+#~ msgstr ""
+#~ "Ajusta los siguientes valores como mejor te parezca. Cuando los guardes, "
+#~ "los <a href=\"index.php?page=popularity-contest.php\"><strong>rankings de "
+#~ "popularidad </strong></a> de tus artículos se actualizarán "
+#~ "automáticamente reflejando los nuevos valores que has elegido."
+
+#~ msgid "Permalink Views:"
+#~ msgstr "Visitas a través del Permalink:"
+
+#~ msgid "Home Views:"
+#~ msgstr "Visitas a través de Home:"
+
+#~ msgid "Archive Views:"
+#~ msgstr "Visitas directas al archivo:"
+
+#~ msgid "Category Views:"
+#~ msgstr "Visitas a través de Categoría:"
+
+#~ msgid "Feed Views (full content only):"
+#~ msgstr "Visitas a través de feeds (sólo contenido completo):"
+
+#~ msgid "Comments:"
+#~ msgstr "Comentarios:"
+
+#~ msgid "Pingbacks:"
+#~ msgstr "Pingbacks:"
+
+#~ msgid "Trackbacks:"
+#~ msgstr "Trackbacks:"
+
+#~ msgid "Example"
+#~ msgstr "Ejemplo"
+
+#~ msgid ""
+#~ "Post #1 receives 11 Home Page Views (11 * 2 = 22), 6 Permalink Views (6 * "
+#~ "10 = 60) and 3 Comments (3 * 20 = 60) for a total value of: <strong>142</"
+#~ "strong>"
+#~ msgstr ""
+#~ "El artículo #1 recibe 11 visitas a travésde Home (11 * 2 = 22), 6 visitas "
+#~ "a través de Permalink (6 * 10 = 60) y 3 comenrtarios (3 * 20 = 60) tendrá "
+#~ "un valor total de: <strong>142</strong>"
+
+#~ msgid ""
+#~ "Post #2 receives 7 Home Page Views (7 * 2 = 14), 10 Permalink Views (10 * "
+#~ "10 = 100), 7 Comments (7 * 20 = 140) and 3 Trackbacks (3 * 80 = 240) for "
+#~ "a total value of: <strong>494</strong>"
+#~ msgstr ""
+#~ "El artículo #2 recibe 7 visitas a travésde Home 7 * 2 = 14), 10 visitas a "
+#~ "través de Permalink (10 * 10 = 100), 7 comenrtarios (7 * 20 = 140) y 3 "
+#~ "Trackbacks (3 * 80 = 240) tendrá un valor total de: <strong>494</strong>"
+
+#~ msgid "Update Popularity Values"
+#~ msgstr "Actualizar valores de Popularidad"
+
+#~ msgid "Reset Comments/Trackback/Pingback Counts"
+#~ msgstr "Restaurar contadores de Comentarios/Trackback/Pingback"
+
+#~ msgid "Popularity Contest Template Tags"
+#~ msgstr "Etiquetas de plantilla de Popularity Contest"
+
+#~ msgid ""
+#~ "Put this tag within <a href=\"http://codex.wordpress.org/The_Loop\">The "
+#~ "Loop</a> to show the popularity of the post being shown. The popularity "
+#~ "is shown as a percentage of your most popular post. For example, if the "
+#~ "popularity total for Post #1 is 500 and your popular post has a total of "
+#~ "1000, this tag will show a value of <strong>50%</strong>."
+#~ msgstr ""
+#~ "Coloca esta etiqueta dentro de <a href=\"http://codex.wordpress.org/"
+#~ "The_Loop\">The Loop</a> para visualizar la popularidad del artículo "
+#~ "mostrado. La popularidad es un porcentaje relativo a tu artículo más "
+#~ "popular. Por ejemplo, si la popularidad total del artículo mostrado es "
+#~ "500 y tu artículo más popular tiene un valor de 1000, la etiqueta "
+#~ "mostrará un valor de <strong>50%</strong>."
+
+#~ msgid "Example:"
+#~ msgstr "Ejemplo:"
+
+#~ msgid ""
+#~ "Put this tag outside of <a href=\"http://codex.wordpress.org/The_Loop"
+#~ "\">The Loop</a> (perhaps in your sidebar?) to show a list (like the "
+#~ "archives/categories/links list) of your most popular posts. All arguments "
+#~ "are optional, the defaults are included in the example above."
+#~ msgstr ""
+#~ "Coloca esta etiqueta fuera de <a href=\"http://codex.wordpress.org/"
+#~ "The_Loop\">The Loop</a> (¿quizá en tu barra lateral?) para mostrar una "
+#~ "lista (del tipo archivos/categorías/enlaces) de tus artículos más "
+#~ "populares. Todos los parámetros son opcionales, los usados por defecto se "
+#~ "muestran en el ejemplo anterior."
+
+#~ msgid "Examples:"
+#~ msgstr "Ejemplos:"
+
+#~ msgid ""
+#~ "Put this tag outside of <a href=\"http://codex.wordpress.org/The_Loop"
+#~ "\">The Loop</a> (perhaps in your sidebar?) to show a list of the most "
+#~ "popular posts in a specific category. You may want to use this on "
+#~ "category archive pages. All arguments are"
+#~ msgstr ""
+#~ "Coloca esta etiqueta fuera de <a href=\"http://codex.wordpress.org/"
+#~ "The_Loop\">The Loop</a> (¿quizá en tu barra lateral?) para mostrar una "
+#~ "lista de los artículos más populares en una categoría concreta. Por "
+#~ "ejemplo puedes usarlo al visualizar archivos por categorías. Todos los "
+#~ "parámetros son opcionales, los usados por defecto se muestran en el "
+#~ "ejemplo anterior."
+
+#~ msgid ""
+#~ "Put this tag outside of <a href=\"http://codex.wordpress.org/The_Loop"
+#~ "\">The Loop</a> (perhaps in your sidebar?) to show a list of the most "
+#~ "popular posts in a specific month. You may want to use this on monthly "
+#~ "archive pages."
+#~ msgstr ""
+#~ "Coloca esta etiqueta fuera de <a href=\"http://codex.wordpress.org/"
+#~ "The_Loop\">The Loop</a> (¿quizá en tu barra lateral?) para mostrar una "
+#~ "lista de los artículos más populares en un mes concreto. Por ejemplo "
+#~ "puedes usarlo al visualizar archivos por meses. Todos los parámetros son "
+#~ "opcionales, los usados por defecto se muestran en el ejemplo anterior."
+
+#~ msgid " Average by Month"
+#~ msgstr " - Media por Mes"
+
+#~ msgid "Views w/o Feedback"
+#~ msgstr "Visitados sin 'feedback'"
+
+#~ msgid "Feedback"
+#~ msgstr "Contador de Comentarios/Pingback/Trackback"
+
+#~ msgid "Last 30 Days"
+#~ msgstr "Últimos 30 días"
+
+#~ msgid "Last 60 Days"
+#~ msgstr "Últimos 60 días"
+
+#~ msgid "Last 90 Days"
+#~ msgstr "Últimos 90 días"
+
+#~ msgid "Last Year"
+#~ msgstr "Último año"
+
+#~ msgid "Older Than 1 Year"
+#~ msgstr "Más antiguos de 1 año"
+
+#~ msgid "Feed Views"
+#~ msgstr "A través de Feed"
+
+#~ msgid "Home Page Views"
+#~ msgstr "A través de Home"
+
+#~ msgid "Archive Views"
+#~ msgstr "A través de Archivos"
+
+#~ msgid "Permalink Views"
+#~ msgstr "A través de Permalink"
+
+#~ msgid "Comments"
+#~ msgstr "Comentarios"
+
+#~ msgid "Pingbacks"
+#~ msgstr "Pingbacks"
+
+#~ msgid "Trackbacks"
+#~ msgstr "Trackbacks"
+
+#~ msgid "Most Popular"
+#~ msgstr "Los más populares"
+
+#~ msgid "%"
+#~ msgstr "%"
+
+#~ msgid "Categories"
+#~ msgstr "Estadística por Categorías"
+
+#~ msgid "Post"
+#~ msgstr "Artículo"
+
+#~ msgid "Cat"
+#~ msgstr "Cat."
+
+#~ msgid "Home"
+#~ msgstr "Hoime"
+
+#~ msgid "Feed"
+#~ msgstr "Feed"
+
+#~ msgid "Com"
+#~ msgstr "Com."
+
+#~ msgid "Ping"
+#~ msgstr "Ping"
+
+#~ msgid "Track"
+#~ msgstr "Track"
+
+#~ msgid "Change Popularity Values"
+#~ msgstr "Cambiar valores de Popularidad"
+
+#~ msgid "Views"
+#~ msgstr "Estadística por Visitas recibidas"
+
+#~ msgid "Averages"
+#~ msgstr "Estadística de Puntuaciones"
+
+#~ msgid "What does this mean?"
+#~ msgstr "¿Para qué siirve?"
+
+#~ msgid "Popularity:"
+#~ msgstr "Ranking:"
+
+#~ msgid "unranked"
+#~ msgstr "Sin ranking"
+
+#~ msgid "Popularity"
+#~ msgstr "Popularidad"
+
+#~ msgid "Most Popular Posts"
+#~ msgstr "Artículos más populares"

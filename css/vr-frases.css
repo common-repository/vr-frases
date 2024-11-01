@@ -1,0 +1,83 @@
+/*
+** =========================
+** ### CSS for VR-Frases ###
+** ###    Version 3.0    ###
+** ========================= 
+*/
+
+.frases-message {
+	clear: both;
+	width: 100%;
+	float: right;
+	padding: 10px;
+	margin: 0px auto 15px auto;
+	border: 1px solid #adadad;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.message-data {
+	float: left;
+	margin: 0;
+}
+
+.frases-num-items {
+	float: right;
+	padding: 5px;
+	margin: 0;
+	background: #f0f0f0;
+	border: 1px solid #adadad;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	font-weight: bold;
+	color: #00CC00;
+}
+
+.form-paginar {
+	clear: both;
+	float: right;
+	padding-top: 5px;
+}
+
+.form-paginar select {
+	padding: 0px;
+	margin: 0px;
+}
+
+.search-item {
+	font-weight: bold;
+	color: #00CC00;
+}
+
+.frases-paginar {
+	clear: both;
+	float: right;
+}
+
+form#frases-page-form {
+}
+
+.frases-display-main {
+	clear: both;
+}
+
+.frases-queryform {
+	clear: both;
+	padding: 5px;
+	margin: 15px auto 15px auto;
+	border: 1px solid #adadad;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+form#frases-searchform table,  form#frases-searchform th, form#frases-searchform td {
+	border: none;
+	padding: 2px;
+	margin: 0px;
+}
